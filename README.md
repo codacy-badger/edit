@@ -10,8 +10,8 @@ For any of the services listed below to work, this should be set up first.
 
 | Field                                 | Details                                  |
 |:--------------------------------------|-----------------------------------------:|
-| Ruby version                           | 2.4.2                                   |
-| Rails version                          | 5.2.0                                   |
+| Ruby version                          | 2.4.2                                    |
+| Rails version                         | 5.2.0                                    |
 
 ## Dependency List
 
